@@ -19,5 +19,7 @@ gem "sqlite3", "~> 1.4"
 # Require all files in a folder
 # https://github.com/jarmo/require_all
 gem "require_all"
+ 
+ gem "faker"
 
 gem "pry"
